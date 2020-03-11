@@ -35,9 +35,9 @@ Para **Data Science**, **IBM Cloud** tiene herramientas como:
 * [Crear una instancia en **IBM Cloud Object Storage**](#Crear-una-instancia-en-IBM-Cloud-Object-Storage).
 * [Crear una instancia en **Watson Studio**](#Crear-una-instancia-en-Watson-Studio).
 * [Crear el Asset **“Modeler Flow”** y los modelos de regresión, clasificación y  clusterización](#Crear-el-Asset-Modeler-Flow-y-los-modelos-de-regresión,-clasificación-y-clusterización)
-    -   Modelo de regresion logística.
-    -   Modelo de Clasificación.
-    -   Modelo de Clusterización.
+    -   [Modelo de regresion logística](#Modelo-de-regresion-logística).
+    -   [Modelo de Clasificación](#Modelo-de-Clasificación).
+    -   [Modelo de Clusterización](#Modelo-de-Clusterización).
 * [Desplegar y probar el modelo](#Desplegar-y-probar-el-modelo).
 
 
@@ -190,7 +190,7 @@ VALOR:              CAMPOS:
 Ahora puedes pasar a:
 [Desplegar y probar el modelo](#Desplegar-y-probar-el-modelo).
 
-## Modelo de regresion 
+## Modelo de Clusterización. 
 1.	Ya que guardamos el modelo, vamos a eliminar todos los nodos del área de trabajo. Para esto, seleccionamos un nodo y damos clic en el ícono de borrar “” de la barra superior, repetimos el proceso para todos los nodos.
 ![](img/im54.png)
 2.	En cuanto tengamos nuestra área de trabajo limpia, del menú en la parte izquierda, seleccionamos la pestaña “Import”, buscamos el nodo “Data Asset” y lo arrastramos al área se trabajo.
@@ -244,19 +244,15 @@ Ahora puedes pasar a:
 ![](img/im79.png)
 7.	Podemos apreciar el resultado del lado derecho: en este caso, la persona no tendría mora con una probabilidad aproximada del 57.9%.
 8.	Para desplegar otro modelo, seguir los mismos pasos.
-
-
-Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.
-https://github.com/ibmdevelopermx
-
-
-
-
-
+    -   [Modelo de regresion logística](#Modelo-de-regresion-logística).
+    -   [Modelo de Clasificación](#Modelo-de-Clasificación).
+    -   [Modelo de Clusterización](#Modelo-de-Clusterización).
 
 
 **Te invitamos a explorar otros talleres y manuales en el siguiente enlace de Github.**
 https://github.com/ibmdevelopermx
+
+
 
 ## Cupones para profesores y estudiantes:
 
